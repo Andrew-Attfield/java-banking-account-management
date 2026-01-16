@@ -16,7 +16,7 @@ A Java-based implementation of a banking account management system. This project
 
 📐 UML Specifications
 
-![Banking System UML](./bank-uml.jpg)
+![Banking System UML](./bank-uml.JPG)
 
 The project was built to strictly adhere to a provided UML blueprint. Key architectural decisions include:
 
