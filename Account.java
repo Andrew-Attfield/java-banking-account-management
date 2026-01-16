@@ -1,4 +1,3 @@
-package Lab8;
 import java.util.Date;
 import java.util.Objects;
 
@@ -172,5 +171,6 @@ class NotEnoughMoneyException extends TransferNotAllowedException {
 		
 	}
 }
+
 
 
