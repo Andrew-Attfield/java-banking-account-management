@@ -4,7 +4,6 @@ Banking System Logic (Java)
 
 A Java-based implementation of a banking account management system. This project focuses on Object-Oriented Programming (OOP) principles, specifically inheritance hierarchies and custom exception handling, developed from a formal UML Class Diagram.
 
-
 🛠 Features
 
     Abstract Foundation: Uses an abstract Account class to enforce a contract for all account types (Current, Savings, etc.).
@@ -16,6 +15,8 @@ A Java-based implementation of a banking account management system. This project
     Object Comparison: Implements the Comparable interface to allow accounts to be sorted by balance or ID.
 
 📐 UML Specifications
+
+![Banking System UML](./uml-diagram.png)
 
 The project was built to strictly adhere to a provided UML blueprint. Key architectural decisions include:
 
