@@ -32,7 +32,7 @@ The project was built to strictly adhere to a provided UML blueprint. Key archit
 
     Documentation: JavaDoc (Custom documentation generated for all subclasses and methods).
 
-    Tools: Eclipse IDE, Git.
+    Tools: Eclipse IDE
 
 📂 Project Structure
 
